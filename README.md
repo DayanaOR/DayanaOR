@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi! I'm Dayana Olarte
 
-<!--
-**DayanaOR/DayanaOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **web developer** with experience in web application development using **C#**, **.Net**, and **.NetCore**, focusing on creating robust and scalable solutions. Currently, I'm learning **React** to strengthen my frontend development skills.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** C#, JavaScript  
+- **Frameworks:** .Net, .NetCore, React  
+- **Databases:** SQL Server, MySQL  
+- **Others:** REST API integration and consumption, SQL query optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Key Experience
+- Development of robust and scalable web applications.  
+- Strong knowledge of relational databases and query optimization.  
+- Integration and consumption of REST APIs, ensuring efficiency and standards compliance. 
+
+## 🌱 Currently Learning
+- React (JavaScript).
